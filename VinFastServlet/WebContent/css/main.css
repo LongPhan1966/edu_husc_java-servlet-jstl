@@ -1,0 +1,103 @@
+.navbar{
+    background-color: rgb(216, 216, 216);
+    color: #fff;
+}
+.Carousel_Wrapper{
+    margin-top: 34px;
+}
+
+.carousel-custom {
+    height: 50% !important;
+    margin-top: 34px !important;
+}
+
+.nav-item-login{
+  margin-right: 10px;
+}
+
+.mgr-15{
+	margin-right: 15px !important; 
+}
+
+.mgt-15px{
+	margin-top: 15px !important;
+}
+.nav-category{
+	color : #333;
+}
+
+.activee{
+	border-bottom: 2px solid #333;
+}
+
+html,
+    body,
+    header,
+    .carousel {
+      height: 60vh;
+    }
+
+    @media (max-width: 740px) {
+      html,
+      body,
+      header,
+      .carousel {
+        height: 100vh;
+      }
+    }
+
+    @media (min-width: 800px) and (max-width: 850px) {
+      html,
+      body,
+      header,
+      .carousel {
+        height: 100vh;
+      }
+    }
+.view,body,html{height:100%}.carousel{height:50%}.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item{height:100%}@media (max-width:776px){.carousel{height:100%}}.page-footer{background-color:#929FBA}
+
+footer{
+    padding-top: 50px;
+    border-top: 4px solid rgb(44,114,198)
+}
+
+.img-banner{
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+.footer-logo{
+    margin: 30px auto 50px;
+    display: block;
+    max-width: 122px
+}
+.footer-about-VF{
+    margin: 6px 0px;
+    font-size: 14px;
+    font-weight: 350;
+}
+
+.footer-relations{
+    margin: 75px 0px 50px 0px;
+}
+.hotline-phone, .hotline-email{
+    border: 1px solid black;
+    margin: 0px 20px;
+}
+.footer-language, .footer-connect{
+    margin: 0px 20px;
+}
+
+
+ul, li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.empty-cart{
+	height: 360px;
+}
